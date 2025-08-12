@@ -67,7 +67,7 @@ Este projeto consiste em um sistema completo de telemetria ambiental utilizando 
     - IDE (Visual Studio Code com extensão Pico-Go, ou similar)
 
 ## 📂 Estrutura do Código
-'''
+```
 Trabalho_SE_13/
 ├── Trabalho_SE_13.c      # Código principal do MÓDULO TRANSMISSOR
 ├── RX.c                  # Código principal do MÓDULO RECEPTOR
@@ -80,7 +80,7 @@ Trabalho_SE_13/
     ├── ssd1306.c
     ├── ssd1306.h         # Driver para o display OLED SSD1306
     └── font.h            # Mapa de bits da fonte usada no display
-'''
+```
 ## 🖥️ Como Compilar
 O processo de compilação deve ser realizado separadamente para o transmissor e o receptor.
 
@@ -110,13 +110,14 @@ O processo de compilação deve ser realizado separadamente para o transmissor e
 5.  **Repita os passos 2 a 4 para o outro módulo (receptor).**
 
 ## 🧑‍💻 Autores
+```
 **Jadson de Jesus Santos,**
 **João Pedro Soares Raccolto,**
 **Mariana Fariasda Silva,**
 **Matheus Pereira Alves,**
 **Rian de Sena Mendes,**
 **Samuel Guedes Canário**
-
+```
 
 ## 🤝 Contribuições
 Este projeto foi desenvolvido por **Jadson de Jesus Santos, João Pedro Soares Raccolto, Mariana Fariasda Silva, Matheus Pereira Alves, Rian de Sena Mendes, Samuel Guedes Canário**.
