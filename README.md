@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/dd38f828-553b-4375-8025-a134a625a690)
+![image](https://github.com/user-attachments/assets/f2a5c9b8-6208-4723-8f46-1d74be421827)
+
 
 # 📡 Sistema de Comunicação LoRa para Monitoramento de Sensores
 
