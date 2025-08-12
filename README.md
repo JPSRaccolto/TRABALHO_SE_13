@@ -88,7 +88,7 @@ O processo de compilação deve ser realizado separadamente para o transmissor e
     ```bash
     git clone https://github.com/JPSRaccolto/TRABALHO_SE_13.git
     ```
-2.  **Navegue até o diretório do projeto desejado (ex: `transmissor`):**
+2.  **Navegue até o diretório do projeto desejado (ex: `TRABALHO_SE_13`):**
     ```bash
     cd TRABALHO_SE_13
     ```
@@ -111,12 +111,12 @@ O processo de compilação deve ser realizado separadamente para o transmissor e
 
 ## 🧑‍💻 Autores
 ```
-**Jadson de Jesus Santos,**
-**João Pedro Soares Raccolto,**
-**Mariana Fariasda Silva,**
-**Matheus Pereira Alves,**
-**Rian de Sena Mendes,**
-**Samuel Guedes Canário**
+Jadson de Jesus Santos,
+João Pedro Soares Raccolto,
+Mariana Fariasda Silva,
+Matheus Pereira Alves,
+Rian de Sena Mendes,
+Samuel Guedes Canário
 ```
 
 ## 🤝 Contribuições
