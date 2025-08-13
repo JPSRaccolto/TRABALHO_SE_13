@@ -139,7 +139,7 @@ Contribuições são bem-vindas! Se você deseja contribuir, por favor, siga os 
 5.  Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- O vídeo de demonstração do projeto pode ser visualizado aqui: LINK(Inserir link aqui)
+- O vídeo de demonstração do projeto pode ser visualizado aqui: LINK(https://www.youtube.com/watch?v=YsvdeChMFF8)
 
 ## 💡 Considerações Finais
 Este projeto serve como uma base robusta para a criação de redes de sensores sem fio de baixo custo e longo alcance. A combinação de interrupções de hardware, um protocolo de dados confiável e feedback em tempo real o torna uma ferramenta versátil para P&D, automação residencial e prototipagem de soluções de IoT.
